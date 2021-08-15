@@ -53,6 +53,16 @@ var questions = [
 		],
 		answer: "mark 50",
 	},
+	{
+		question: "What is the real name of Captain America? ",
+		options: [
+			"Steve Roggers",
+			"Tony Stark",
+			"Bruce Banner",
+			"Clint Barton"
+		],
+		answer: "Steve Roggers",
+	},
 ]
 
 
